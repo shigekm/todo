@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  memo: MyText
+  due_date: 2012-02-19
+  done: false
+
+two:
+  title: MyString
+  memo: MyText
+  due_date: 2012-02-19
+  done: false
